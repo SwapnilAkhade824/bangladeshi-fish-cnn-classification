@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw dataset - never commit
+data/raw/*
+!data/raw/.gitkeep
+
+# Model binaries - too large for git
+custom_cnn/best_model/*
+!custom_cnn/best_model/.gitkeep
+transfer_learning/best_model/*
+!transfer_learning/best_model/.gitkeep
+
+# Plots and images - regenerate locally
+custom_cnn/plots/*
+!custom_cnn/plots/.gitkeep
+transfer_learning/plots/*
+!transfer_learning/plots/.gitkeep
+
+# Keep logs and metrics CSVs
+!custom_cnn/logs/*.csv
+!custom_cnn/metrics/*.csv
+!custom_cnn/metrics/*.json
+!transfer_learning/logs/*.csv
+!transfer_learning/metrics/*.csv
+!transfer_learning/metrics/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
