@@ -11,8 +11,9 @@ env/
 .ipynb_checkpoints/
 
 # Raw dataset - never commit
-data/raw/*
-!data/raw/.gitkeep
+# data/raw/ is committed in this repo (34 MB, license confirmed)
+# Remove the ignore rule if the dataset changes.
+!data/raw/
 
 # Model binaries - too large for git
 custom_cnn/best_model/*
