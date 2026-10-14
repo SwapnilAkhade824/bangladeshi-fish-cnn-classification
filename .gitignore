@@ -10,10 +10,8 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Raw dataset - never commit
-# data/raw/ is committed in this repo (34 MB, license confirmed)
-# Remove the ignore rule if the dataset changes.
-!data/raw/
+# Raw dataset - CC BY 4.0, committed to this repo.
+# See docs/dataset_source.md.
 
 # Model binaries - too large for git
 custom_cnn/best_model/*

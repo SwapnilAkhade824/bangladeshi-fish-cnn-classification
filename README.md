@@ -8,13 +8,12 @@
 ## Dataset
 Bangladeshi Freshwater Fish Image Dataset (BFF-15)
 
-Source URL: TODO - add verified dataset source URL
+- Source: https://www.kaggle.com/datasets/theshahidul/bangladeshi-freshwater-fish-image-dataset-bff-15
+- License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Uploaded by: Md. Shahidul Islam Prodhan
+- Committed under `data/raw/` in this repository with attribution.
 
-15 freshwater fish classes:
-GRASS CARP, ILISH, KATLA, KOI, MAGUR, MIRROR CARP, MRIGAL,
-PABDA, PANGAS, PUTI, RUI, SHOL, SILVER CARP, TELAPIA, TENGRA
-
-Raw dataset is not committed to this repository. Place it locally under `data/raw/`.
+See `docs/dataset_source.md` for full details.
 
 ## Notebooks
 | Notebook | Purpose | Owner |
