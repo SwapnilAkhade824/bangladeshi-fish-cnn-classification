@@ -1,0 +1,36 @@
+{
+  "img_size": [
+    224,
+    224
+  ],
+  "batch_size": 32,
+  "seed": 42,
+  "normalization": "scale_to_0_1",
+  "augmentation": [
+    "horizontal_flip",
+    "rotation_0.05",
+    "zoom_0.10",
+    "contrast_0.10"
+  ],
+  "train_size": 3903,
+  "val_size": 837,
+  "test_size": 837,
+  "num_classes": 15,
+  "class_names": [
+    "GRASS CARP",
+    "ILISH",
+    "KATLA",
+    "KOI",
+    "MAGUR",
+    "MIRROR CARP",
+    "MRIGAL",
+    "PABDA",
+    "PANGAS",
+    "PUTI",
+    "RUI",
+    "SHOL",
+    "SILVER CARP",
+    "TELAPIA",
+    "TENGRA"
+  ]
+}
