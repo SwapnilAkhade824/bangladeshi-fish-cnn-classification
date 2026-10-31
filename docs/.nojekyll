@@ -1,0 +1,1 @@
+# Disables Jekyll processing so GitHub Pages serves this static site (and data/*.json) as-is.

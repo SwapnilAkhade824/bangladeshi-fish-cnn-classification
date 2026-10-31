@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BFF-15 · Fish Classification with CNN vs Transfer Learning</title>
+  <meta name="description"
+        content="Bangladeshi Freshwater Fish (BFF-15) image classification: a from-scratch CNN benchmarked against a fine-tuned MobileNetV2." />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1 id="title">Bangladeshi Freshwater Fish Classification</h1>
+      <p class="subtitle">Custom CNN vs. Transfer Learning on the BFF-15 dataset</p>
+      <div class="badges" id="badges"></div>
+      <p class="team">Team: <span id="team"></span></p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- 1. Headline metrics -->
+    <section id="headline" class="cards" aria-label="Headline results">
+      <div class="card"><span class="card-kpi" id="kpi-cnn">–</span><span class="card-label">Custom CNN · Test acc.</span></div>
+      <div class="card accent"><span class="card-kpi" id="kpi-tl">–</span><span class="card-label">MobileNetV2 · Test acc.</span></div>
+      <div class="card good"><span class="card-kpi" id="kpi-delta">–</span><span class="card-label">Absolute gain (Δ)</span></div>
+      <div class="card"><span class="card-kpi" id="kpi-p">–</span><span class="card-label">McNemar p-value</span></div>
+    </section>
+
+    <p class="lede">The same frozen train/val/test split, the same augmentation pipeline and the
+      same evaluation code (<code>eval_utils.py</code>) drive both models, so the comparison is
+      like-for-like. Byte-identical images were de-duplicated before splitting to remove leakage.</p>
+
+    <!-- 2. Comparison table -->
+    <section aria-labelledby="cmp-h">
+      <h2 id="cmp-h">Head-to-head metrics</h2>
+      <div class="table-scroll"><table id="cmp-table" class="data-table"></table></div>
+    </section>
+
+    <!-- 3. Training curves -->
+    <section aria-labelledby="curve-h">
+      <h2 id="curve-h">Training curves</h2>
+      <div class="grid-2">
+        <div class="panel"><h3>Custom CNN</h3><div id="cnn-curves" class="chart"></div></div>
+        <div class="panel"><h3>MobileNetV2 (transfer)</h3><div id="tl-curves" class="chart"></div></div>
+      </div>
+    </section>
+
+    <!-- 4. Per-class performance -->
+    <section aria-labelledby="pc-h">
+      <h2 id="pc-h">Per-class F1 score</h2>
+      <div class="panel"><div id="perclass-chart" class="chart"></div></div>
+      <div class="table-scroll"><table id="perclass-table" class="data-table"></table></div>
+    </section>
+
+    <!-- 5. Confusion matrices -->
+    <section aria-labelledby="cm-h">
+      <h2 id="cm-h">Confusion matrices (test set)</h2>
+      <div class="grid-2">
+        <div class="panel"><h3>Custom CNN</h3><div id="cnn-cm" class="heatmap-wrap"></div></div>
+        <div class="panel"><h3>MobileNetV2</h3><div id="tl-cm" class="heatmap-wrap"></div></div>
+      </div>
+    </section>
+
+    <!-- 6. Significance -->
+    <section aria-labelledby="sig-h">
+      <h2 id="sig-h">Is the difference real?</h2>
+      <div class="panel callout" id="sig-box"></div>
+    </section>
+
+    <!-- 7. Dataset overview -->
+    <section aria-labelledby="ds-h">
+      <h2 id="ds-h">Dataset overview</h2>
+      <div id="dataset-info" class="grid-2"></div>
+    </section>
+
+    <!-- 8. Method / how it was built -->
+    <section aria-labelledby="flow-h">
+      <h2 id="flow-h">How it was built</h2>
+      <ol class="flow">
+        <li><b>00_dataset_setup</b> — scan <code>data/raw</code>, drop byte-identical duplicates, stratified 70/15/15 split (seed 42).</li>
+        <li><b>01_custom_cnn</b> — from-scratch CNN, Adam, augmentation, early stopping.</li>
+        <li><b>02_transfer_learning</b> — MobileNetV2, <code>Rescaling(2.0, offset=-1.0)</code> to [-1,1], frozen base then fine-tune.</li>
+        <li><b>03_comparison</b> — shared <code>eval_utils</code> artifacts, comparison table, McNemar test.</li>
+      </ol>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>BFF-15 dataset licensed CC BY 4.0 ·
+        <a id="src-link" href="#" target="_blank" rel="noopener">source</a> ·
+        <a href="https://github.com/SwapnilAkhade824/bangladeshi-fish-cnn-classification" target="_blank" rel="noopener">code repository</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="./app.js"></script>
+</body>
+</html>

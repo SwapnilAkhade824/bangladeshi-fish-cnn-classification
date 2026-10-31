@@ -1,838 +1,784 @@
 filepath,label,class_name
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0206.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0151.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0061.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0252.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0234.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0035.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0069.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0172.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0060.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0226.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0133.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0494.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0134.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0466.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0137.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0295.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0371.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0289.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0392.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0247.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0259.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0236.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0189.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0084.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0059.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0138.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0405.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0205.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0095.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0275.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0334.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0212.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0365.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0372.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0118.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0139.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0340.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0070.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0201.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0279.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0048.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0155.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0233.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0216.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0217.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0124.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0413.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0063.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0047.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0047.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0139.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0360.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0224.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0203.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0065.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0149.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0213.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0520.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0217.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0320.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0041.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0002.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0178.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0053.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0211.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0346.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0329.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0260.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0053.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0188.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0003.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0225.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0081.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0140.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0049.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0270.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0203.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0040.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0055.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0177.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0342.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0371.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0253.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0325.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0474.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0166.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0043.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0288.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0252.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0057.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0050.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0184.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0046.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0316.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0223.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0256.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0207.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0079.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0469.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0197.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0186.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0179.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0178.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0051.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0369.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0101.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0201.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0238.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0068.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0036.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0227.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0331.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0231.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0307.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0247.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0160.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0099.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0293.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0355.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0239.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0294.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0115.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0227.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0213.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0154.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0257.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0310.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0081.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0228.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0062.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0267.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0111.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0122.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0201.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0346.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0218.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0252.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0177.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0195.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0116.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0287.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0078.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0105.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0183.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0373.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0118.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0032.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0392.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0251.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0361.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0378.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0205.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0296.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0218.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0157.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0002.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0382.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0392.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0216.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0086.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0322.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0188.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0285.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0079.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0182.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0073.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0039.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0176.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0118.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0134.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0090.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0263.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0394.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0097.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0146.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0012.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0030.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0133.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0142.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0053.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0196.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0289.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0159.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0476.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0202.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0232.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0256.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0114.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0228.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0076.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0227.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0003.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0104.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0315.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0457.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0202.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0265.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0204.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0045.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0383.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0054.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0245.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0277.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0276.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0063.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0090.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0003.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0201.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0267.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0110.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0100.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0051.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0102.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0435.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0163.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0377.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0165.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0149.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0127.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0152.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0120.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0109.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0005.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0214.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0178.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0344.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0137.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0407.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0034.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0266.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0175.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0133.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0313.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0383.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0040.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0326.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0314.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0231.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0172.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0059.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0173.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0025.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0416.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0171.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0345.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0050.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0348.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0199.jpeg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0122.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0411.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0116.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0341.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0382.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0233.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0319.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0035.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0180.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0103.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0401.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0117.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0095.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0296.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0125.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0267.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0078.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0192.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0344.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0273.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0037.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0174.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0096.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0120.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0214.jpeg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0337.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0039.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0448.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0277.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0038.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0282.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0492.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0452.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0496.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0347.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0248.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0019.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0198.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0114.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0421.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0195.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0229.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0135.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0316.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0142.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0082.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0383.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0052.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0146.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0141.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0029.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0051.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0027.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0145.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0082.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0310.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0418.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0164.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0240.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0270.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0099.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0293.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0146.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0218.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0192.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0388.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0123.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0153.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0106.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0216.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0257.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0424.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0410.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0156.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0348.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0124.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0081.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0174.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0227.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0271.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0107.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0149.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0287.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0205.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0028.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0439.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0158.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0223.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0100.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0400.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0221.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0209.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0328.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0437.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0101.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0294.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0152.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0303.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0217.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0179.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0213.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0100.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0205.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0113.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0013.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0117.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0378.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0168.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0039.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0132.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0227.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0169.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0416.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0313.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0149.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0276.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0140.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0392.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0082.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0036.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0312.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0256.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0250.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0156.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0148.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0177.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0129.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0304.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0130.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0491.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0336.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0195.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0012.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0104.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0189.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0163.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0310.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0320.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0014.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0148.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0005.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0350.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0119.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0120.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0329.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0490.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0180.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0146.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0489.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0269.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0136.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0022.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0265.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0005.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0191.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0198.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0405.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0356.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0175.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0269.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0197.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0332.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0428.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0295.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0076.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0088.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0058.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0301.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0011.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0094.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0395.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0098.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0089.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0217.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0243.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0345.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0013.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0031.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0100.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0159.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0233.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0113.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0302.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0363.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0059.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0158.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0121.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0127.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0227.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0085.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0019.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0216.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0228.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0287.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0107.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0233.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0143.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0022.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0100.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0297.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0406.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0173.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0511.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0162.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0055.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0083.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0183.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0013.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0231.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0220.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0128.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0114.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0303.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0302.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0165.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0126.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0510.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0493.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0403.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0409.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0341.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0239.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0320.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0147.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0199.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0397.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0330.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0472.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0187.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0124.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0497.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0119.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0440.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0116.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0001.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0214.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0152.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0138.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0149.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0038.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0235.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0236.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0360.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0177.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0160.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0222.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0495.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0120.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0408.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0110.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0208.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0259.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0328.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0161.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0299.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0205.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0063.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0349.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0336.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0273.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0104.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0180.jpeg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0391.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0252.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0069.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0265.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0177.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0141.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0290.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0021.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0250.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0073.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0052.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0136.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0061.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0310.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0365.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0109.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0471.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0297.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0448.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0202.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0047.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0021.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0267.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0206.jpeg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0489.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0106.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0128.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0061.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0148.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0196.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0153.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0047.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0251.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0233.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0201.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0134.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0237.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0356.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0109.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0119.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0183.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0083.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0384.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0001.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0253.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0189.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0038.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0240.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0305.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0012.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0267.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0019.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0185.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0348.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0367.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0042.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0461.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0215.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0268.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0087.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0171.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0423.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0184.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0504.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0086.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0068.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0142.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0508.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0192.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0242.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0409.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0156.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0344.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0098.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0161.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0169.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0164.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0340.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0133.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0038.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0003.jpeg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0254.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0258.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0203.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0051.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0205.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0050.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0260.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0340.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0102.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0218.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0048.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0230.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0207.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0216.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0292.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0056.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0207.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0131.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0269.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0337.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0398.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0146.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0170.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0327.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0138.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0293.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0341.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0401.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0202.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0348.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0105.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0337.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0055.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0242.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0106.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0286.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0104.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0093.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0069.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0175.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0044.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0304.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0073.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0393.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0474.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0058.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0077.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0357.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0062.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0213.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0458.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0154.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0228.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0195.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0306.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0160.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0441.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0229.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0359.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0364.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0411.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0406.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0376.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0304.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0221.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0005.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0401.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0147.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0315.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0414.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0285.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0105.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0374.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0129.jpeg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0286.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0164.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0107.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0060.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0058.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0493.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0055.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0052.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0048.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0368.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0007.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0261.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0090.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0259.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0358.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0369.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0041.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0090.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0320.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0069.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0083.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0150.jpeg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0006.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0101.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0343.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0342.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0313.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0169.jpeg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0109.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0176.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0186.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0302.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0074.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0478.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0006.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0136.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0065.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0467.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0163.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0204.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0106.jpeg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0324.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0097.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0399.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0311.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0002.jpeg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0015.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0175.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0244.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0229.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0343.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0086.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0125.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0199.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0076.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0145.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0354.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0332.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0089.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0221.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0288.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0089.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0068.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0316.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0384.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0114.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0076.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0084.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0067.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0242.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0408.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0158.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0056.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0178.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0013.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0211.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0288.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0285.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0110.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0158.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0252.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0196.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0425.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0032.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0257.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0046.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0333.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0279.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0213.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0032.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0522.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0170.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0298.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0477.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0173.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0183.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0521.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0451.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0063.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0023.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0023.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0337.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0025.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0372.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0105.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0422.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0027.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0094.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0150.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0394.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0188.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0220.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0029.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0309.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0165.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0117.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0417.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0155.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0034.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0328.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0065.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0101.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0063.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0241.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0163.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0288.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0080.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0122.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0073.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0452.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0171.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0199.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0248.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0301.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0023.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0345.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\ILISH\ILISH_0216.jpg,1,ILISH
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SHOL\SHOL_0162.jpg,11,SHOL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0307.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0403.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0190.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0471.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0250.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0028.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TENGRA\TENGRA_0338.jpg,14,TENGRA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0202.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0314.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0009.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\SILVER CARP\SILVER CARP_0137.jpg,12,SILVER CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0350.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0046.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0072.jpg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0117.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KATLA\KATLA_0053.jpg,2,KATLA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0075.jpg,8,PANGAS
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0206.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0176.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PABDA\PABDA_0232.jpg,7,PABDA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0118.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0139.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0051.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\TELAPIA\TELAPIA_0086.jpg,13,TELAPIA
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0224.jpg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MAGUR\MAGUR_0279.jpg,4,MAGUR
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PUTI\PUTI_0295.jpg,9,PUTI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0092.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MIRROR CARP\MIRROR CARP_0210.jpeg,5,MIRROR CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\GRASS CARP\GRASS CARP_0271.jpg,0,GRASS CARP
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\KOI\KOI_0137.jpg,3,KOI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\MRIGAL\MRIGAL_0291.jpeg,6,MRIGAL
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\RUI\RUI_0403.jpg,10,RUI
-D:\Dev\College\GenAI\bangladeshi-fish-cnn-classification\data\raw\PANGAS\PANGAS_0391.jpg,8,PANGAS
+data/raw/GRASS CARP/GRASS CARP_0164.jpg,0,GRASS CARP
+data/raw/RUI/RUI_0434.jpg,10,RUI
+data/raw/KATLA/KATLA_0377.jpg,2,KATLA
+data/raw/GRASS CARP/GRASS CARP_0064.jpg,0,GRASS CARP
+data/raw/TENGRA/TENGRA_0414.jpg,14,TENGRA
+data/raw/MIRROR CARP/MIRROR CARP_0121.jpg,5,MIRROR CARP
+data/raw/RUI/RUI_0123.jpg,10,RUI
+data/raw/PUTI/PUTI_0196.jpg,9,PUTI
+data/raw/KATLA/KATLA_0145.jpg,2,KATLA
+data/raw/KATLA/KATLA_0255.jpg,2,KATLA
+data/raw/MAGUR/MAGUR_0068.jpg,4,MAGUR
+data/raw/PUTI/PUTI_0038.jpg,9,PUTI
+data/raw/PABDA/PABDA_0306.jpg,7,PABDA
+data/raw/KOI/KOI_0283.jpg,3,KOI
+data/raw/RUI/RUI_0244.jpg,10,RUI
+data/raw/RUI/RUI_0365.jpg,10,RUI
+data/raw/MRIGAL/MRIGAL_0064.jpeg,6,MRIGAL
+data/raw/MIRROR CARP/MIRROR CARP_0046.jpg,5,MIRROR CARP
+data/raw/RUI/RUI_0020.jpg,10,RUI
+data/raw/PUTI/PUTI_0251.jpg,9,PUTI
+data/raw/SHOL/SHOL_0019.jpg,11,SHOL
+data/raw/PANGAS/PANGAS_0256.jpg,8,PANGAS
+data/raw/PANGAS/PANGAS_0337.jpg,8,PANGAS
+data/raw/SHOL/SHOL_0134.jpg,11,SHOL
+data/raw/RUI/RUI_0017.jpg,10,RUI
+data/raw/PUTI/PUTI_0116.jpg,9,PUTI
+data/raw/PANGAS/PANGAS_0236.jpg,8,PANGAS
+data/raw/GRASS CARP/GRASS CARP_0318.jpg,0,GRASS CARP
+data/raw/KATLA/KATLA_0318.jpg,2,KATLA
+data/raw/TELAPIA/TELAPIA_0288.jpg,13,TELAPIA
+data/raw/MAGUR/MAGUR_0279.jpg,4,MAGUR
+data/raw/TELAPIA/TELAPIA_0018.jpg,13,TELAPIA
+data/raw/SILVER CARP/SILVER CARP_0072.jpeg,12,SILVER CARP
+data/raw/PANGAS/PANGAS_0452.jpg,8,PANGAS
+data/raw/ILISH/ILISH_0093.jpg,1,ILISH
+data/raw/PUTI/PUTI_0344.jpg,9,PUTI
+data/raw/TELAPIA/TELAPIA_0109.jpg,13,TELAPIA
+data/raw/GRASS CARP/GRASS CARP_0216.jpg,0,GRASS CARP
+data/raw/MAGUR/MAGUR_0006.jpg,4,MAGUR
+data/raw/KOI/KOI_0291.jpg,3,KOI
+data/raw/RUI/RUI_0502.jpg,10,RUI
+data/raw/SILVER CARP/SILVER CARP_0197.jpeg,12,SILVER CARP
+data/raw/TENGRA/TENGRA_0356.jpg,14,TENGRA
+data/raw/TELAPIA/TELAPIA_0170.jpg,13,TELAPIA
+data/raw/TENGRA/TENGRA_0048.jpg,14,TENGRA
+data/raw/GRASS CARP/GRASS CARP_0266.jpg,0,GRASS CARP
+data/raw/SILVER CARP/SILVER CARP_0171.jpeg,12,SILVER CARP
+data/raw/GRASS CARP/GRASS CARP_0238.jpg,0,GRASS CARP
+data/raw/PANGAS/PANGAS_0350.jpg,8,PANGAS
+data/raw/PUTI/PUTI_0140.jpg,9,PUTI
+data/raw/TENGRA/TENGRA_0065.jpg,14,TENGRA
+data/raw/TELAPIA/TELAPIA_0187.jpg,13,TELAPIA
+data/raw/PUTI/PUTI_0212.jpg,9,PUTI
+data/raw/PUTI/PUTI_0046.jpg,9,PUTI
+data/raw/TENGRA/TENGRA_0205.jpg,14,TENGRA
+data/raw/SILVER CARP/SILVER CARP_0083.jpg,12,SILVER CARP
+data/raw/KOI/KOI_0189.jpg,3,KOI
+data/raw/RUI/RUI_0172.jpg,10,RUI
+data/raw/KOI/KOI_0425.jpg,3,KOI
+data/raw/TENGRA/TENGRA_0256.jpg,14,TENGRA
+data/raw/TELAPIA/TELAPIA_0196.jpg,13,TELAPIA
+data/raw/PANGAS/PANGAS_0217.jpg,8,PANGAS
+data/raw/MIRROR CARP/MIRROR CARP_0047.jpg,5,MIRROR CARP
+data/raw/KOI/KOI_0338.jpg,3,KOI
+data/raw/KATLA/KATLA_0252.jpg,2,KATLA
+data/raw/GRASS CARP/GRASS CARP_0287.jpg,0,GRASS CARP
+data/raw/MAGUR/MAGUR_0234.jpg,4,MAGUR
+data/raw/PANGAS/PANGAS_0334.jpg,8,PANGAS
+data/raw/MAGUR/MAGUR_0146.jpg,4,MAGUR
+data/raw/SHOL/SHOL_0248.jpg,11,SHOL
+data/raw/MIRROR CARP/MIRROR CARP_0078.jpg,5,MIRROR CARP
+data/raw/PANGAS/PANGAS_0028.jpg,8,PANGAS
+data/raw/KATLA/KATLA_0306.jpg,2,KATLA
+data/raw/ILISH/ILISH_0060.jpg,1,ILISH
+data/raw/PABDA/PABDA_0154.jpg,7,PABDA
+data/raw/PUTI/PUTI_0250.jpg,9,PUTI
+data/raw/RUI/RUI_0394.jpg,10,RUI
+data/raw/KATLA/KATLA_0054.jpg,2,KATLA
+data/raw/KATLA/KATLA_0423.jpg,2,KATLA
+data/raw/SHOL/SHOL_0025.jpg,11,SHOL
+data/raw/RUI/RUI_0100.jpg,10,RUI
+data/raw/KOI/KOI_0266.jpg,3,KOI
+data/raw/MRIGAL/MRIGAL_0073.jpg,6,MRIGAL
+data/raw/ILISH/ILISH_0191.jpg,1,ILISH
+data/raw/PUTI/PUTI_0002.jpg,9,PUTI
+data/raw/RUI/RUI_0308.jpg,10,RUI
+data/raw/MAGUR/MAGUR_0243.jpg,4,MAGUR
+data/raw/KATLA/KATLA_0144.jpg,2,KATLA
+data/raw/PANGAS/PANGAS_0475.jpg,8,PANGAS
+data/raw/MRIGAL/MRIGAL_0127.jpg,6,MRIGAL
+data/raw/PANGAS/PANGAS_0434.jpg,8,PANGAS
+data/raw/GRASS CARP/GRASS CARP_0368.jpg,0,GRASS CARP
+data/raw/SHOL/SHOL_0274.jpg,11,SHOL
+data/raw/TENGRA/TENGRA_0268.jpg,14,TENGRA
+data/raw/SHOL/SHOL_0267.jpg,11,SHOL
+data/raw/KATLA/KATLA_0001.jpg,2,KATLA
+data/raw/MAGUR/MAGUR_0072.jpg,4,MAGUR
+data/raw/GRASS CARP/GRASS CARP_0090.jpg,0,GRASS CARP
+data/raw/TENGRA/TENGRA_0056.jpg,14,TENGRA
+data/raw/TENGRA/TENGRA_0416.jpg,14,TENGRA
+data/raw/PANGAS/PANGAS_0171.jpg,8,PANGAS
+data/raw/KATLA/KATLA_0356.jpg,2,KATLA
+data/raw/PANGAS/PANGAS_0105.jpg,8,PANGAS
+data/raw/RUI/RUI_0153.jpg,10,RUI
+data/raw/TENGRA/TENGRA_0231.jpg,14,TENGRA
+data/raw/ILISH/ILISH_0168.jpg,1,ILISH
+data/raw/SILVER CARP/SILVER CARP_0234.jpg,12,SILVER CARP
+data/raw/SILVER CARP/SILVER CARP_0155.jpeg,12,SILVER CARP
+data/raw/TENGRA/TENGRA_0392.jpg,14,TENGRA
+data/raw/RUI/RUI_0150.jpg,10,RUI
+data/raw/PUTI/PUTI_0244.jpg,9,PUTI
+data/raw/MAGUR/MAGUR_0105.jpg,4,MAGUR
+data/raw/KATLA/KATLA_0274.jpg,2,KATLA
+data/raw/TELAPIA/TELAPIA_0137.jpg,13,TELAPIA
+data/raw/MIRROR CARP/MIRROR CARP_0219.jpg,5,MIRROR CARP
+data/raw/PUTI/PUTI_0228.jpg,9,PUTI
+data/raw/KATLA/KATLA_0099.jpg,2,KATLA
+data/raw/MRIGAL/MRIGAL_0069.jpg,6,MRIGAL
+data/raw/KOI/KOI_0319.jpg,3,KOI
+data/raw/PUTI/PUTI_0406.jpg,9,PUTI
+data/raw/PANGAS/PANGAS_0268.jpg,8,PANGAS
+data/raw/TELAPIA/TELAPIA_0084.jpg,13,TELAPIA
+data/raw/PUTI/PUTI_0345.jpg,9,PUTI
+data/raw/SHOL/SHOL_0090.jpg,11,SHOL
+data/raw/MAGUR/MAGUR_0280.jpg,4,MAGUR
+data/raw/PANGAS/PANGAS_0160.jpg,8,PANGAS
+data/raw/PUTI/PUTI_0235.jpg,9,PUTI
+data/raw/PANGAS/PANGAS_0255.jpg,8,PANGAS
+data/raw/PANGAS/PANGAS_0442.jpg,8,PANGAS
+data/raw/TENGRA/TENGRA_0053.jpg,14,TENGRA
+data/raw/KOI/KOI_0324.jpg,3,KOI
+data/raw/ILISH/ILISH_0094.jpg,1,ILISH
+data/raw/RUI/RUI_0112.jpg,10,RUI
+data/raw/SILVER CARP/SILVER CARP_0136.jpeg,12,SILVER CARP
+data/raw/SILVER CARP/SILVER CARP_0059.jpg,12,SILVER CARP
+data/raw/PUTI/PUTI_0098.jpg,9,PUTI
+data/raw/PUTI/PUTI_0238.jpg,9,PUTI
+data/raw/PABDA/PABDA_0059.jpg,7,PABDA
+data/raw/MIRROR CARP/MIRROR CARP_0145.jpg,5,MIRROR CARP
+data/raw/RUI/RUI_0376.jpg,10,RUI
+data/raw/RUI/RUI_0197.jpg,10,RUI
+data/raw/KATLA/KATLA_0034.jpg,2,KATLA
+data/raw/KOI/KOI_0397.jpg,3,KOI
+data/raw/MIRROR CARP/MIRROR CARP_0105.jpg,5,MIRROR CARP
+data/raw/MRIGAL/MRIGAL_0226.jpg,6,MRIGAL
+data/raw/MAGUR/MAGUR_0013.jpg,4,MAGUR
+data/raw/KOI/KOI_0356.jpg,3,KOI
+data/raw/MAGUR/MAGUR_0198.jpg,4,MAGUR
+data/raw/TENGRA/TENGRA_0204.jpg,14,TENGRA
+data/raw/PABDA/PABDA_0105.jpg,7,PABDA
+data/raw/PANGAS/PANGAS_0039.jpg,8,PANGAS
+data/raw/TENGRA/TENGRA_0085.jpg,14,TENGRA
+data/raw/RUI/RUI_0317.jpg,10,RUI
+data/raw/TELAPIA/TELAPIA_0290.jpg,13,TELAPIA
+data/raw/RUI/RUI_0146.jpg,10,RUI
+data/raw/PANGAS/PANGAS_0320.jpg,8,PANGAS
+data/raw/GRASS CARP/GRASS CARP_0218.jpg,0,GRASS CARP
+data/raw/GRASS CARP/GRASS CARP_0239.jpg,0,GRASS CARP
+data/raw/ILISH/ILISH_0170.jpg,1,ILISH
+data/raw/RUI/RUI_0410.jpg,10,RUI
+data/raw/KOI/KOI_0421.jpg,3,KOI
+data/raw/PANGAS/PANGAS_0288.jpg,8,PANGAS
+data/raw/MRIGAL/MRIGAL_0176.jpeg,6,MRIGAL
+data/raw/MAGUR/MAGUR_0059.jpg,4,MAGUR
+data/raw/KATLA/KATLA_0166.jpg,2,KATLA
+data/raw/RUI/RUI_0497.jpg,10,RUI
+data/raw/KATLA/KATLA_0350.jpg,2,KATLA
+data/raw/MIRROR CARP/MIRROR CARP_0125.jpg,5,MIRROR CARP
+data/raw/MIRROR CARP/MIRROR CARP_0175.jpg,5,MIRROR CARP
+data/raw/MIRROR CARP/MIRROR CARP_0074.jpg,5,MIRROR CARP
+data/raw/MIRROR CARP/MIRROR CARP_0118.jpg,5,MIRROR CARP
+data/raw/PUTI/PUTI_0171.jpg,9,PUTI
+data/raw/KATLA/KATLA_0119.jpg,2,KATLA
+data/raw/KOI/KOI_0318.jpg,3,KOI
+data/raw/PANGAS/PANGAS_0391.jpg,8,PANGAS
+data/raw/RUI/RUI_0224.jpg,10,RUI
+data/raw/KATLA/KATLA_0161.jpg,2,KATLA
+data/raw/TELAPIA/TELAPIA_0021.jpg,13,TELAPIA
+data/raw/PANGAS/PANGAS_0124.jpg,8,PANGAS
+data/raw/MRIGAL/MRIGAL_0034.jpg,6,MRIGAL
+data/raw/PUTI/PUTI_0394.jpg,9,PUTI
+data/raw/SHOL/SHOL_0029.jpg,11,SHOL
+data/raw/GRASS CARP/GRASS CARP_0054.jpg,0,GRASS CARP
+data/raw/PABDA/PABDA_0220.jpg,7,PABDA
+data/raw/PANGAS/PANGAS_0448.jpg,8,PANGAS
+data/raw/ILISH/ILISH_0137.jpg,1,ILISH
+data/raw/GRASS CARP/GRASS CARP_0056.jpg,0,GRASS CARP
+data/raw/MIRROR CARP/MIRROR CARP_0082.jpg,5,MIRROR CARP
+data/raw/KATLA/KATLA_0235.jpg,2,KATLA
+data/raw/KOI/KOI_0394.jpg,3,KOI
+data/raw/ILISH/ILISH_0129.jpg,1,ILISH
+data/raw/KOI/KOI_0116.jpg,3,KOI
+data/raw/GRASS CARP/GRASS CARP_0326.jpg,0,GRASS CARP
+data/raw/GRASS CARP/GRASS CARP_0191.jpg,0,GRASS CARP
+data/raw/PUTI/PUTI_0324.jpg,9,PUTI
+data/raw/MAGUR/MAGUR_0020.jpg,4,MAGUR
+data/raw/TENGRA/TENGRA_0311.jpg,14,TENGRA
+data/raw/TENGRA/TENGRA_0471.jpg,14,TENGRA
+data/raw/TENGRA/TENGRA_0236.jpg,14,TENGRA
+data/raw/PABDA/PABDA_0298.jpg,7,PABDA
+data/raw/PUTI/PUTI_0368.jpg,9,PUTI
+data/raw/PUTI/PUTI_0041.jpg,9,PUTI
+data/raw/PANGAS/PANGAS_0399.jpg,8,PANGAS
+data/raw/PABDA/PABDA_0324.jpg,7,PABDA
+data/raw/KATLA/KATLA_0118.jpg,2,KATLA
+data/raw/PABDA/PABDA_0286.jpg,7,PABDA
+data/raw/RUI/RUI_0486.jpg,10,RUI
+data/raw/ILISH/ILISH_0086.jpg,1,ILISH
+data/raw/PANGAS/PANGAS_0223.jpg,8,PANGAS
+data/raw/SHOL/SHOL_0181.jpg,11,SHOL
+data/raw/GRASS CARP/GRASS CARP_0256.jpg,0,GRASS CARP
+data/raw/GRASS CARP/GRASS CARP_0168.jpg,0,GRASS CARP
+data/raw/PABDA/PABDA_0238.jpg,7,PABDA
+data/raw/PABDA/PABDA_0318.jpg,7,PABDA
+data/raw/PUTI/PUTI_0280.jpg,9,PUTI
+data/raw/TENGRA/TENGRA_0082.jpg,14,TENGRA
+data/raw/TELAPIA/TELAPIA_0058.jpg,13,TELAPIA
+data/raw/SILVER CARP/SILVER CARP_0098.jpg,12,SILVER CARP
+data/raw/TENGRA/TENGRA_0061.jpg,14,TENGRA
+data/raw/KATLA/KATLA_0051.jpg,2,KATLA
+data/raw/PUTI/PUTI_0335.jpg,9,PUTI
+data/raw/SHOL/SHOL_0174.jpg,11,SHOL
+data/raw/RUI/RUI_0148.jpg,10,RUI
+data/raw/PABDA/PABDA_0019.jpg,7,PABDA
+data/raw/SILVER CARP/SILVER CARP_0177.jpg,12,SILVER CARP
+data/raw/GRASS CARP/GRASS CARP_0082.jpg,0,GRASS CARP
+data/raw/RUI/RUI_0247.jpg,10,RUI
+data/raw/MRIGAL/MRIGAL_0035.jpg,6,MRIGAL
+data/raw/ILISH/ILISH_0147.jpg,1,ILISH
+data/raw/PUTI/PUTI_0309.jpg,9,PUTI
+data/raw/RUI/RUI_0127.jpg,10,RUI
+data/raw/KOI/KOI_0117.jpg,3,KOI
+data/raw/TELAPIA/TELAPIA_0164.jpg,13,TELAPIA
+data/raw/ILISH/ILISH_0122.jpg,1,ILISH
+data/raw/TENGRA/TENGRA_0426.jpg,14,TENGRA
+data/raw/KATLA/KATLA_0230.jpg,2,KATLA
+data/raw/KOI/KOI_0121.jpg,3,KOI
+data/raw/TENGRA/TENGRA_0030.jpg,14,TENGRA
+data/raw/RUI/RUI_0500.jpg,10,RUI
+data/raw/RUI/RUI_0037.jpg,10,RUI
+data/raw/PABDA/PABDA_0273.jpg,7,PABDA
+data/raw/KOI/KOI_0197.jpg,3,KOI
+data/raw/TELAPIA/TELAPIA_0299.jpg,13,TELAPIA
+data/raw/MAGUR/MAGUR_0272.jpg,4,MAGUR
+data/raw/SILVER CARP/SILVER CARP_0085.jpg,12,SILVER CARP
+data/raw/GRASS CARP/GRASS CARP_0137.jpg,0,GRASS CARP
+data/raw/TELAPIA/TELAPIA_0348.jpg,13,TELAPIA
+data/raw/PANGAS/PANGAS_0169.jpg,8,PANGAS
+data/raw/PABDA/PABDA_0166.jpg,7,PABDA
+data/raw/SILVER CARP/SILVER CARP_0165.jpg,12,SILVER CARP
+data/raw/SHOL/SHOL_0070.jpg,11,SHOL
+data/raw/KATLA/KATLA_0291.jpg,2,KATLA
+data/raw/TELAPIA/TELAPIA_0273.jpg,13,TELAPIA
+data/raw/TENGRA/TENGRA_0323.jpg,14,TENGRA
+data/raw/PANGAS/PANGAS_0402.jpg,8,PANGAS
+data/raw/PABDA/PABDA_0150.jpg,7,PABDA
+data/raw/ILISH/ILISH_0016.jpg,1,ILISH
+data/raw/RUI/RUI_0008.jpg,10,RUI
+data/raw/PANGAS/PANGAS_0133.jpg,8,PANGAS
+data/raw/RUI/RUI_0257.jpg,10,RUI
+data/raw/MRIGAL/MRIGAL_0197.jpeg,6,MRIGAL
+data/raw/SILVER CARP/SILVER CARP_0224.jpg,12,SILVER CARP
+data/raw/GRASS CARP/GRASS CARP_0035.jpg,0,GRASS CARP
+data/raw/TELAPIA/TELAPIA_0260.jpg,13,TELAPIA
+data/raw/KATLA/KATLA_0258.jpg,2,KATLA
+data/raw/TELAPIA/TELAPIA_0258.jpg,13,TELAPIA
+data/raw/KATLA/KATLA_0288.jpg,2,KATLA
+data/raw/TELAPIA/TELAPIA_0351.jpg,13,TELAPIA
+data/raw/ILISH/ILISH_0203.jpg,1,ILISH
+data/raw/TENGRA/TENGRA_0464.jpg,14,TENGRA
+data/raw/MIRROR CARP/MIRROR CARP_0034.jpg,5,MIRROR CARP
+data/raw/MIRROR CARP/MIRROR CARP_0136.jpg,5,MIRROR CARP
+data/raw/TENGRA/TENGRA_0352.jpg,14,TENGRA
+data/raw/TENGRA/TENGRA_0436.jpg,14,TENGRA
+data/raw/KOI/KOI_0050.jpg,3,KOI
+data/raw/MRIGAL/MRIGAL_0148.jpg,6,MRIGAL
+data/raw/TELAPIA/TELAPIA_0242.jpg,13,TELAPIA
+data/raw/ILISH/ILISH_0117.jpg,1,ILISH
+data/raw/SILVER CARP/SILVER CARP_0124.jpg,12,SILVER CARP
+data/raw/PANGAS/PANGAS_0451.jpg,8,PANGAS
+data/raw/RUI/RUI_0286.jpg,10,RUI
+data/raw/ILISH/ILISH_0120.jpg,1,ILISH
+data/raw/GRASS CARP/GRASS CARP_0360.jpg,0,GRASS CARP
+data/raw/KATLA/KATLA_0080.jpg,2,KATLA
+data/raw/PUTI/PUTI_0397.jpg,9,PUTI
+data/raw/PABDA/PABDA_0067.jpg,7,PABDA
+data/raw/ILISH/ILISH_0052.jpg,1,ILISH
+data/raw/MAGUR/MAGUR_0004.jpg,4,MAGUR
+data/raw/KATLA/KATLA_0020.jpg,2,KATLA
+data/raw/GRASS CARP/GRASS CARP_0394.jpg,0,GRASS CARP
+data/raw/PANGAS/PANGAS_0415.jpg,8,PANGAS
+data/raw/TENGRA/TENGRA_0062.jpg,14,TENGRA
+data/raw/TENGRA/TENGRA_0516.jpg,14,TENGRA
+data/raw/PABDA/PABDA_0319.jpg,7,PABDA
+data/raw/KOI/KOI_0210.jpg,3,KOI
+data/raw/MIRROR CARP/MIRROR CARP_0164.jpg,5,MIRROR CARP
+data/raw/PABDA/PABDA_0005.jpg,7,PABDA
+data/raw/RUI/RUI_0035.jpg,10,RUI
+data/raw/GRASS CARP/GRASS CARP_0132.jpg,0,GRASS CARP
+data/raw/SHOL/SHOL_0059.jpg,11,SHOL
+data/raw/SHOL/SHOL_0049.jpg,11,SHOL
+data/raw/KATLA/KATLA_0155.jpg,2,KATLA
+data/raw/PANGAS/PANGAS_0376.jpg,8,PANGAS
+data/raw/MAGUR/MAGUR_0271.jpg,4,MAGUR
+data/raw/PANGAS/PANGAS_0295.jpg,8,PANGAS
+data/raw/RUI/RUI_0318.jpg,10,RUI
+data/raw/KATLA/KATLA_0039.jpg,2,KATLA
+data/raw/MIRROR CARP/MIRROR CARP_0097.jpg,5,MIRROR CARP
+data/raw/KOI/KOI_0242.jpg,3,KOI
+data/raw/KOI/KOI_0135.jpg,3,KOI
+data/raw/RUI/RUI_0219.jpg,10,RUI
+data/raw/SHOL/SHOL_0068.jpg,11,SHOL
+data/raw/KOI/KOI_0123.jpg,3,KOI
+data/raw/TELAPIA/TELAPIA_0140.jpg,13,TELAPIA
+data/raw/SILVER CARP/SILVER CARP_0086.jpg,12,SILVER CARP
+data/raw/MAGUR/MAGUR_0054.jpg,4,MAGUR
+data/raw/KATLA/KATLA_0241.jpg,2,KATLA
+data/raw/MRIGAL/MRIGAL_0046.jpg,6,MRIGAL
+data/raw/PABDA/PABDA_0208.jpg,7,PABDA
+data/raw/TELAPIA/TELAPIA_0083.jpg,13,TELAPIA
+data/raw/RUI/RUI_0480.jpg,10,RUI
+data/raw/KOI/KOI_0078.jpg,3,KOI
+data/raw/TELAPIA/TELAPIA_0296.jpg,13,TELAPIA
+data/raw/TENGRA/TENGRA_0322.jpg,14,TENGRA
+data/raw/SILVER CARP/SILVER CARP_0235.jpg,12,SILVER CARP
+data/raw/KOI/KOI_0423.jpg,3,KOI
+data/raw/KOI/KOI_0378.jpg,3,KOI
+data/raw/PANGAS/PANGAS_0113.jpg,8,PANGAS
+data/raw/PUTI/PUTI_0105.jpg,9,PUTI
+data/raw/MAGUR/MAGUR_0248.jpg,4,MAGUR
+data/raw/KOI/KOI_0307.jpg,3,KOI
+data/raw/SILVER CARP/SILVER CARP_0201.jpg,12,SILVER CARP
+data/raw/PUTI/PUTI_0296.jpg,9,PUTI
+data/raw/TENGRA/TENGRA_0241.jpg,14,TENGRA
+data/raw/SHOL/SHOL_0075.jpg,11,SHOL
+data/raw/PANGAS/PANGAS_0285.jpg,8,PANGAS
+data/raw/PUTI/PUTI_0302.jpg,9,PUTI
+data/raw/SHOL/SHOL_0175.jpg,11,SHOL
+data/raw/RUI/RUI_0274.jpg,10,RUI
+data/raw/PANGAS/PANGAS_0409.jpg,8,PANGAS
+data/raw/RUI/RUI_0323.jpg,10,RUI
+data/raw/KATLA/KATLA_0096.jpg,2,KATLA
+data/raw/TELAPIA/TELAPIA_0091.jpg,13,TELAPIA
+data/raw/KATLA/KATLA_0242.jpg,2,KATLA
+data/raw/SILVER CARP/SILVER CARP_0116.jpg,12,SILVER CARP
+data/raw/GRASS CARP/GRASS CARP_0301.jpg,0,GRASS CARP
+data/raw/SILVER CARP/SILVER CARP_0054.jpg,12,SILVER CARP
+data/raw/PUTI/PUTI_0311.jpg,9,PUTI
+data/raw/KOI/KOI_0183.jpg,3,KOI
+data/raw/KOI/KOI_0246.jpg,3,KOI
+data/raw/KOI/KOI_0023.jpg,3,KOI
+data/raw/TENGRA/TENGRA_0412.jpg,14,TENGRA
+data/raw/KATLA/KATLA_0238.jpg,2,KATLA
+data/raw/MIRROR CARP/MIRROR CARP_0194.jpg,5,MIRROR CARP
+data/raw/SHOL/SHOL_0101.jpg,11,SHOL
+data/raw/MRIGAL/MRIGAL_0234.jpg,6,MRIGAL
+data/raw/GRASS CARP/GRASS CARP_0275.jpg,0,GRASS CARP
+data/raw/KOI/KOI_0095.jpg,3,KOI
+data/raw/SHOL/SHOL_0235.jpg,11,SHOL
+data/raw/MIRROR CARP/MIRROR CARP_0212.jpeg,5,MIRROR CARP
+data/raw/TELAPIA/TELAPIA_0073.jpg,13,TELAPIA
+data/raw/SHOL/SHOL_0226.jpg,11,SHOL
+data/raw/PUTI/PUTI_0123.jpg,9,PUTI
+data/raw/PUTI/PUTI_0115.jpg,9,PUTI
+data/raw/PUTI/PUTI_0247.jpg,9,PUTI
+data/raw/MIRROR CARP/MIRROR CARP_0171.jpg,5,MIRROR CARP
+data/raw/PUTI/PUTI_0039.jpg,9,PUTI
+data/raw/ILISH/ILISH_0196.jpg,1,ILISH
+data/raw/SILVER CARP/SILVER CARP_0112.jpeg,12,SILVER CARP
+data/raw/KATLA/KATLA_0135.jpg,2,KATLA
+data/raw/TENGRA/TENGRA_0070.jpg,14,TENGRA
+data/raw/GRASS CARP/GRASS CARP_0347.jpg,0,GRASS CARP
+data/raw/MIRROR CARP/MIRROR CARP_0009.jpg,5,MIRROR CARP
+data/raw/TENGRA/TENGRA_0361.jpg,14,TENGRA
+data/raw/TENGRA/TENGRA_0321.jpg,14,TENGRA
+data/raw/KOI/KOI_0141.jpg,3,KOI
+data/raw/TENGRA/TENGRA_0287.jpg,14,TENGRA
+data/raw/MAGUR/MAGUR_0239.jpg,4,MAGUR
+data/raw/TENGRA/TENGRA_0342.jpg,14,TENGRA
+data/raw/PANGAS/PANGAS_0023.jpg,8,PANGAS
+data/raw/GRASS CARP/GRASS CARP_0210.jpg,0,GRASS CARP
+data/raw/TELAPIA/TELAPIA_0341.jpg,13,TELAPIA
+data/raw/PANGAS/PANGAS_0232.jpg,8,PANGAS
+data/raw/TENGRA/TENGRA_0409.jpg,14,TENGRA
+data/raw/TELAPIA/TELAPIA_0355.jpg,13,TELAPIA
+data/raw/PANGAS/PANGAS_0440.jpg,8,PANGAS
+data/raw/TENGRA/TENGRA_0446.jpg,14,TENGRA
+data/raw/RUI/RUI_0316.jpg,10,RUI
+data/raw/MAGUR/MAGUR_0062.jpg,4,MAGUR
+data/raw/RUI/RUI_0282.jpg,10,RUI
+data/raw/SHOL/SHOL_0018.jpg,11,SHOL
+data/raw/SILVER CARP/SILVER CARP_0180.jpeg,12,SILVER CARP
+data/raw/TENGRA/TENGRA_0320.jpg,14,TENGRA
+data/raw/TENGRA/TENGRA_0369.jpg,14,TENGRA
+data/raw/GRASS CARP/GRASS CARP_0401.jpg,0,GRASS CARP
+data/raw/MRIGAL/MRIGAL_0032.jpg,6,MRIGAL
+data/raw/PANGAS/PANGAS_0400.jpg,8,PANGAS
+data/raw/PANGAS/PANGAS_0088.jpg,8,PANGAS
+data/raw/SHOL/SHOL_0287.jpg,11,SHOL
+data/raw/PABDA/PABDA_0347.jpg,7,PABDA
+data/raw/PUTI/PUTI_0356.jpg,9,PUTI
+data/raw/MRIGAL/MRIGAL_0014.jpg,6,MRIGAL
+data/raw/PUTI/PUTI_0186.jpg,9,PUTI
+data/raw/MAGUR/MAGUR_0098.jpg,4,MAGUR
+data/raw/KATLA/KATLA_0163.jpg,2,KATLA
+data/raw/GRASS CARP/GRASS CARP_0387.jpg,0,GRASS CARP
+data/raw/MIRROR CARP/MIRROR CARP_0123.jpg,5,MIRROR CARP
+data/raw/PABDA/PABDA_0173.jpg,7,PABDA
+data/raw/SHOL/SHOL_0078.jpg,11,SHOL
+data/raw/PANGAS/PANGAS_0348.jpg,8,PANGAS
+data/raw/SHOL/SHOL_0011.jpg,11,SHOL
+data/raw/TELAPIA/TELAPIA_0331.jpg,13,TELAPIA
+data/raw/GRASS CARP/GRASS CARP_0022.jpg,0,GRASS CARP
+data/raw/MAGUR/MAGUR_0145.jpg,4,MAGUR
+data/raw/PUTI/PUTI_0383.jpg,9,PUTI
+data/raw/MIRROR CARP/MIRROR CARP_0002.jpeg,5,MIRROR CARP
+data/raw/KATLA/KATLA_0351.jpg,2,KATLA
+data/raw/MAGUR/MAGUR_0276.jpg,4,MAGUR
+data/raw/KOI/KOI_0150.jpg,3,KOI
+data/raw/PABDA/PABDA_0027.jpg,7,PABDA
+data/raw/PUTI/PUTI_0047.jpg,9,PUTI
+data/raw/TELAPIA/TELAPIA_0178.jpg,13,TELAPIA
+data/raw/TELAPIA/TELAPIA_0179.jpg,13,TELAPIA
+data/raw/PANGAS/PANGAS_0489.jpg,8,PANGAS
+data/raw/PANGAS/PANGAS_0140.jpg,8,PANGAS
+data/raw/SILVER CARP/SILVER CARP_0233.jpeg,12,SILVER CARP
+data/raw/ILISH/ILISH_0116.jpg,1,ILISH
+data/raw/MAGUR/MAGUR_0163.jpg,4,MAGUR
+data/raw/PABDA/PABDA_0212.jpg,7,PABDA
+data/raw/RUI/RUI_0493.jpg,10,RUI
+data/raw/MAGUR/MAGUR_0057.jpg,4,MAGUR
+data/raw/PANGAS/PANGAS_0278.jpg,8,PANGAS
+data/raw/KATLA/KATLA_0253.jpg,2,KATLA
+data/raw/KATLA/KATLA_0418.jpg,2,KATLA
+data/raw/KOI/KOI_0316.jpg,3,KOI
+data/raw/GRASS CARP/GRASS CARP_0073.jpg,0,GRASS CARP
+data/raw/KATLA/KATLA_0262.jpg,2,KATLA
+data/raw/TENGRA/TENGRA_0032.jpg,14,TENGRA
+data/raw/SHOL/SHOL_0006.jpg,11,SHOL
+data/raw/PABDA/PABDA_0069.jpg,7,PABDA
+data/raw/MAGUR/MAGUR_0266.jpg,4,MAGUR
+data/raw/GRASS CARP/GRASS CARP_0257.jpg,0,GRASS CARP
+data/raw/MIRROR CARP/MIRROR CARP_0224.jpg,5,MIRROR CARP
+data/raw/PANGAS/PANGAS_0491.jpg,8,PANGAS
+data/raw/GRASS CARP/GRASS CARP_0369.jpg,0,GRASS CARP
+data/raw/PUTI/PUTI_0352.jpg,9,PUTI
+data/raw/PANGAS/PANGAS_0345.jpg,8,PANGAS
+data/raw/KOI/KOI_0158.jpg,3,KOI
+data/raw/KOI/KOI_0349.jpg,3,KOI
+data/raw/PABDA/PABDA_0192.jpg,7,PABDA
+data/raw/RUI/RUI_0385.jpg,10,RUI
+data/raw/TENGRA/TENGRA_0333.jpg,14,TENGRA
+data/raw/PANGAS/PANGAS_0224.jpg,8,PANGAS
+data/raw/TELAPIA/TELAPIA_0041.jpg,13,TELAPIA
+data/raw/KOI/KOI_0321.jpg,3,KOI
+data/raw/PANGAS/PANGAS_0271.jpg,8,PANGAS
+data/raw/PANGAS/PANGAS_0370.jpg,8,PANGAS
+data/raw/ILISH/ILISH_0048.jpg,1,ILISH
+data/raw/PANGAS/PANGAS_0128.jpg,8,PANGAS
+data/raw/GRASS CARP/GRASS CARP_0390.jpg,0,GRASS CARP
+data/raw/SHOL/SHOL_0240.jpg,11,SHOL
+data/raw/KOI/KOI_0072.jpg,3,KOI
+data/raw/SILVER CARP/SILVER CARP_0119.jpg,12,SILVER CARP
+data/raw/KATLA/KATLA_0229.jpg,2,KATLA
+data/raw/ILISH/ILISH_0076.jpg,1,ILISH
+data/raw/PABDA/PABDA_0317.jpg,7,PABDA
+data/raw/MRIGAL/MRIGAL_0049.jpg,6,MRIGAL
+data/raw/PABDA/PABDA_0023.jpg,7,PABDA
+data/raw/SILVER CARP/SILVER CARP_0206.jpeg,12,SILVER CARP
+data/raw/KATLA/KATLA_0269.jpg,2,KATLA
+data/raw/KOI/KOI_0323.jpg,3,KOI
+data/raw/PANGAS/PANGAS_0049.jpg,8,PANGAS
+data/raw/TENGRA/TENGRA_0274.jpg,14,TENGRA
+data/raw/TELAPIA/TELAPIA_0114.jpg,13,TELAPIA
+data/raw/MRIGAL/MRIGAL_0027.jpg,6,MRIGAL
+data/raw/MRIGAL/MRIGAL_0207.jpg,6,MRIGAL
+data/raw/MIRROR CARP/MIRROR CARP_0084.jpg,5,MIRROR CARP
+data/raw/KOI/KOI_0346.jpg,3,KOI
+data/raw/SHOL/SHOL_0122.jpg,11,SHOL
+data/raw/KATLA/KATLA_0082.jpg,2,KATLA
+data/raw/MAGUR/MAGUR_0258.jpg,4,MAGUR
+data/raw/RUI/RUI_0281.jpg,10,RUI
+data/raw/KOI/KOI_0170.jpg,3,KOI
+data/raw/TELAPIA/TELAPIA_0275.jpg,13,TELAPIA
+data/raw/MAGUR/MAGUR_0184.jpg,4,MAGUR
+data/raw/GRASS CARP/GRASS CARP_0107.jpg,0,GRASS CARP
+data/raw/TELAPIA/TELAPIA_0003.jpg,13,TELAPIA
+data/raw/RUI/RUI_0312.jpg,10,RUI
+data/raw/TENGRA/TENGRA_0077.jpg,14,TENGRA
+data/raw/RUI/RUI_0283.jpg,10,RUI
+data/raw/GRASS CARP/GRASS CARP_0281.jpg,0,GRASS CARP
+data/raw/SHOL/SHOL_0089.jpg,11,SHOL
+data/raw/RUI/RUI_0332.jpg,10,RUI
+data/raw/ILISH/ILISH_0070.jpg,1,ILISH
+data/raw/GRASS CARP/GRASS CARP_0009.jpg,0,GRASS CARP
+data/raw/PUTI/PUTI_0233.jpg,9,PUTI
+data/raw/RUI/RUI_0386.jpg,10,RUI
+data/raw/GRASS CARP/GRASS CARP_0359.jpg,0,GRASS CARP
+data/raw/PABDA/PABDA_0131.jpg,7,PABDA
+data/raw/KOI/KOI_0426.jpg,3,KOI
+data/raw/MRIGAL/MRIGAL_0009.jpg,6,MRIGAL
+data/raw/KATLA/KATLA_0165.jpg,2,KATLA
+data/raw/TENGRA/TENGRA_0420.jpg,14,TENGRA
+data/raw/RUI/RUI_0398.jpg,10,RUI
+data/raw/PANGAS/PANGAS_0233.jpg,8,PANGAS
+data/raw/SHOL/SHOL_0057.jpg,11,SHOL
+data/raw/MRIGAL/MRIGAL_0204.jpg,6,MRIGAL
+data/raw/PANGAS/PANGAS_0136.jpg,8,PANGAS
+data/raw/PANGAS/PANGAS_0315.jpg,8,PANGAS
+data/raw/TELAPIA/TELAPIA_0238.jpg,13,TELAPIA
+data/raw/RUI/RUI_0176.jpg,10,RUI
+data/raw/SHOL/SHOL_0048.jpg,11,SHOL
+data/raw/SILVER CARP/SILVER CARP_0003.jpg,12,SILVER CARP
+data/raw/PANGAS/PANGAS_0108.jpg,8,PANGAS
+data/raw/TENGRA/TENGRA_0431.jpg,14,TENGRA
+data/raw/KATLA/KATLA_0395.jpg,2,KATLA
+data/raw/RUI/RUI_0068.jpg,10,RUI
+data/raw/SHOL/SHOL_0062.jpg,11,SHOL
+data/raw/TELAPIA/TELAPIA_0373.jpg,13,TELAPIA
+data/raw/MIRROR CARP/MIRROR CARP_0208.jpg,5,MIRROR CARP
+data/raw/PABDA/PABDA_0012.jpg,7,PABDA
+data/raw/PANGAS/PANGAS_0190.jpg,8,PANGAS
+data/raw/TELAPIA/TELAPIA_0244.jpg,13,TELAPIA
+data/raw/PABDA/PABDA_0048.jpg,7,PABDA
+data/raw/ILISH/ILISH_0101.jpg,1,ILISH
+data/raw/GRASS CARP/GRASS CARP_0310.jpg,0,GRASS CARP
+data/raw/MRIGAL/MRIGAL_0213.jpg,6,MRIGAL
+data/raw/MRIGAL/MRIGAL_0114.jpg,6,MRIGAL
+data/raw/PANGAS/PANGAS_0151.jpg,8,PANGAS
+data/raw/KATLA/KATLA_0285.jpg,2,KATLA
+data/raw/KATLA/KATLA_0254.jpg,2,KATLA
+data/raw/KATLA/KATLA_0106.jpg,2,KATLA
+data/raw/ILISH/ILISH_0126.jpg,1,ILISH
+data/raw/RUI/RUI_0412.jpg,10,RUI
+data/raw/KOI/KOI_0212.jpg,3,KOI
+data/raw/KATLA/KATLA_0053.jpg,2,KATLA
+data/raw/KATLA/KATLA_0178.jpg,2,KATLA
+data/raw/MAGUR/MAGUR_0140.jpg,4,MAGUR
+data/raw/GRASS CARP/GRASS CARP_0233.jpg,0,GRASS CARP
+data/raw/SILVER CARP/SILVER CARP_0210.jpeg,12,SILVER CARP
+data/raw/TELAPIA/TELAPIA_0174.jpg,13,TELAPIA
+data/raw/ILISH/ILISH_0230.jpg,1,ILISH
+data/raw/TENGRA/TENGRA_0028.jpg,14,TENGRA
+data/raw/TENGRA/TENGRA_0364.jpg,14,TENGRA
+data/raw/TENGRA/TENGRA_0386.jpg,14,TENGRA
+data/raw/SILVER CARP/SILVER CARP_0181.jpeg,12,SILVER CARP
+data/raw/ILISH/ILISH_0145.jpg,1,ILISH
+data/raw/KOI/KOI_0383.jpg,3,KOI
+data/raw/PANGAS/PANGAS_0184.jpg,8,PANGAS
+data/raw/PANGAS/PANGAS_0019.jpg,8,PANGAS
+data/raw/KATLA/KATLA_0406.jpg,2,KATLA
+data/raw/TENGRA/TENGRA_0042.jpg,14,TENGRA
+data/raw/GRASS CARP/GRASS CARP_0316.jpg,0,GRASS CARP
+data/raw/RUI/RUI_0425.jpg,10,RUI
+data/raw/KOI/KOI_0311.jpg,3,KOI
+data/raw/PUTI/PUTI_0258.jpg,9,PUTI
+data/raw/TENGRA/TENGRA_0353.jpg,14,TENGRA
+data/raw/PABDA/PABDA_0244.jpg,7,PABDA
+data/raw/MRIGAL/MRIGAL_0077.jpg,6,MRIGAL
+data/raw/MIRROR CARP/MIRROR CARP_0225.jpeg,5,MIRROR CARP
+data/raw/ILISH/ILISH_0229.jpg,1,ILISH
+data/raw/ILISH/ILISH_0221.jpg,1,ILISH
+data/raw/TENGRA/TENGRA_0248.jpg,14,TENGRA
+data/raw/PABDA/PABDA_0030.jpg,7,PABDA
+data/raw/PANGAS/PANGAS_0324.jpg,8,PANGAS
+data/raw/KATLA/KATLA_0397.jpg,2,KATLA
+data/raw/PUTI/PUTI_0390.jpg,9,PUTI
+data/raw/TENGRA/TENGRA_0247.jpg,14,TENGRA
+data/raw/MAGUR/MAGUR_0101.jpg,4,MAGUR
+data/raw/MIRROR CARP/MIRROR CARP_0022.jpg,5,MIRROR CARP
+data/raw/SILVER CARP/SILVER CARP_0131.jpg,12,SILVER CARP
+data/raw/KOI/KOI_0090.jpg,3,KOI
+data/raw/KATLA/KATLA_0376.jpg,2,KATLA
+data/raw/SHOL/SHOL_0003.jpg,11,SHOL
+data/raw/RUI/RUI_0370.jpg,10,RUI
+data/raw/PANGAS/PANGAS_0220.jpg,8,PANGAS
+data/raw/RUI/RUI_0051.jpg,10,RUI
+data/raw/TELAPIA/TELAPIA_0182.jpg,13,TELAPIA
+data/raw/SHOL/SHOL_0061.jpg,11,SHOL
+data/raw/KOI/KOI_0361.jpg,3,KOI
+data/raw/RUI/RUI_0135.jpg,10,RUI
+data/raw/GRASS CARP/GRASS CARP_0050.jpg,0,GRASS CARP
+data/raw/RUI/RUI_0509.jpg,10,RUI
+data/raw/MRIGAL/MRIGAL_0074.jpg,6,MRIGAL
+data/raw/SHOL/SHOL_0026.jpg,11,SHOL
+data/raw/ILISH/ILISH_0127.jpg,1,ILISH
+data/raw/SHOL/SHOL_0125.jpg,11,SHOL
+data/raw/SHOL/SHOL_0242.jpg,11,SHOL
+data/raw/KOI/KOI_0359.jpg,3,KOI
+data/raw/PUTI/PUTI_0175.jpg,9,PUTI
+data/raw/SHOL/SHOL_0172.jpg,11,SHOL
+data/raw/SILVER CARP/SILVER CARP_0138.jpg,12,SILVER CARP
+data/raw/KOI/KOI_0112.jpg,3,KOI
+data/raw/KOI/KOI_0335.jpg,3,KOI
+data/raw/RUI/RUI_0362.jpg,10,RUI
+data/raw/SHOL/SHOL_0222.jpg,11,SHOL
+data/raw/MAGUR/MAGUR_0259.jpg,4,MAGUR
+data/raw/RUI/RUI_0333.jpg,10,RUI
+data/raw/PANGAS/PANGAS_0446.jpg,8,PANGAS
+data/raw/PUTI/PUTI_0259.jpg,9,PUTI
+data/raw/SHOL/SHOL_0188.jpg,11,SHOL
+data/raw/MRIGAL/MRIGAL_0099.jpg,6,MRIGAL
+data/raw/GRASS CARP/GRASS CARP_0263.jpg,0,GRASS CARP
+data/raw/PANGAS/PANGAS_0003.jpg,8,PANGAS
+data/raw/PANGAS/PANGAS_0258.jpg,8,PANGAS
+data/raw/RUI/RUI_0110.jpg,10,RUI
+data/raw/SHOL/SHOL_0291.jpg,11,SHOL
+data/raw/SILVER CARP/SILVER CARP_0187.jpg,12,SILVER CARP
+data/raw/ILISH/ILISH_0019.jpg,1,ILISH
+data/raw/KATLA/KATLA_0041.jpg,2,KATLA
+data/raw/ILISH/ILISH_0125.jpg,1,ILISH
+data/raw/KOI/KOI_0160.jpg,3,KOI
+data/raw/MIRROR CARP/MIRROR CARP_0209.jpg,5,MIRROR CARP
+data/raw/GRASS CARP/GRASS CARP_0151.jpg,0,GRASS CARP
+data/raw/PUTI/PUTI_0095.jpg,9,PUTI
+data/raw/PANGAS/PANGAS_0152.jpg,8,PANGAS
+data/raw/TENGRA/TENGRA_0235.jpg,14,TENGRA
+data/raw/RUI/RUI_0293.jpg,10,RUI
+data/raw/SILVER CARP/SILVER CARP_0013.jpg,12,SILVER CARP
+data/raw/PANGAS/PANGAS_0425.jpg,8,PANGAS
+data/raw/PUTI/PUTI_0153.jpg,9,PUTI
+data/raw/RUI/RUI_0462.jpg,10,RUI
+data/raw/RUI/RUI_0443.jpg,10,RUI
+data/raw/PUTI/PUTI_0149.jpg,9,PUTI
+data/raw/ILISH/ILISH_0049.jpg,1,ILISH
+data/raw/GRASS CARP/GRASS CARP_0324.jpg,0,GRASS CARP
+data/raw/GRASS CARP/GRASS CARP_0208.jpg,0,GRASS CARP
+data/raw/TELAPIA/TELAPIA_0203.jpg,13,TELAPIA
+data/raw/PUTI/PUTI_0339.jpg,9,PUTI
+data/raw/PANGAS/PANGAS_0030.jpg,8,PANGAS
+data/raw/MAGUR/MAGUR_0199.jpg,4,MAGUR
+data/raw/MIRROR CARP/MIRROR CARP_0088.jpg,5,MIRROR CARP
+data/raw/MIRROR CARP/MIRROR CARP_0019.jpg,5,MIRROR CARP
+data/raw/MRIGAL/MRIGAL_0040.jpg,6,MRIGAL
+data/raw/KOI/KOI_0386.jpg,3,KOI
+data/raw/TENGRA/TENGRA_0174.jpg,14,TENGRA
+data/raw/PUTI/PUTI_0099.jpg,9,PUTI
+data/raw/GRASS CARP/GRASS CARP_0051.jpg,0,GRASS CARP
+data/raw/PANGAS/PANGAS_0022.jpg,8,PANGAS
+data/raw/TELAPIA/TELAPIA_0069.jpg,13,TELAPIA
+data/raw/TELAPIA/TELAPIA_0127.jpg,13,TELAPIA
+data/raw/KOI/KOI_0265.jpg,3,KOI
+data/raw/MRIGAL/MRIGAL_0129.jpg,6,MRIGAL
+data/raw/MAGUR/MAGUR_0005.jpg,4,MAGUR
+data/raw/PUTI/PUTI_0279.jpg,9,PUTI
+data/raw/KOI/KOI_0225.jpg,3,KOI
+data/raw/MIRROR CARP/MIRROR CARP_0108.jpg,5,MIRROR CARP
+data/raw/TENGRA/TENGRA_0295.jpg,14,TENGRA
+data/raw/MAGUR/MAGUR_0061.jpg,4,MAGUR
+data/raw/PABDA/PABDA_0269.jpg,7,PABDA
+data/raw/RUI/RUI_0382.jpg,10,RUI
+data/raw/PANGAS/PANGAS_0203.jpg,8,PANGAS
+data/raw/TELAPIA/TELAPIA_0185.jpg,13,TELAPIA
+data/raw/TELAPIA/TELAPIA_0093.jpg,13,TELAPIA
+data/raw/SHOL/SHOL_0154.jpg,11,SHOL
+data/raw/PUTI/PUTI_0389.jpg,9,PUTI
+data/raw/PANGAS/PANGAS_0266.jpg,8,PANGAS
+data/raw/PUTI/PUTI_0326.jpg,9,PUTI
+data/raw/MRIGAL/MRIGAL_0188.jpg,6,MRIGAL
+data/raw/PABDA/PABDA_0193.jpg,7,PABDA
+data/raw/PANGAS/PANGAS_0211.jpg,8,PANGAS
+data/raw/MAGUR/MAGUR_0073.jpg,4,MAGUR
+data/raw/PABDA/PABDA_0215.jpg,7,PABDA
+data/raw/GRASS CARP/GRASS CARP_0267.jpg,0,GRASS CARP
+data/raw/MAGUR/MAGUR_0185.jpg,4,MAGUR
+data/raw/KATLA/KATLA_0393.jpg,2,KATLA
+data/raw/GRASS CARP/GRASS CARP_0365.jpg,0,GRASS CARP
+data/raw/RUI/RUI_0030.jpg,10,RUI
+data/raw/TENGRA/TENGRA_0501.jpg,14,TENGRA
+data/raw/MIRROR CARP/MIRROR CARP_0138.jpeg,5,MIRROR CARP
+data/raw/RUI/RUI_0069.jpg,10,RUI
+data/raw/SHOL/SHOL_0236.jpg,11,SHOL
+data/raw/MAGUR/MAGUR_0267.jpg,4,MAGUR
+data/raw/TELAPIA/TELAPIA_0314.jpg,13,TELAPIA
+data/raw/ILISH/ILISH_0047.jpg,1,ILISH
+data/raw/RUI/RUI_0241.jpg,10,RUI
+data/raw/TELAPIA/TELAPIA_0330.jpg,13,TELAPIA
+data/raw/PANGAS/PANGAS_0139.jpg,8,PANGAS
+data/raw/TELAPIA/TELAPIA_0039.jpg,13,TELAPIA
+data/raw/TELAPIA/TELAPIA_0304.jpg,13,TELAPIA
+data/raw/PANGAS/PANGAS_0153.jpg,8,PANGAS
+data/raw/PANGAS/PANGAS_0095.jpg,8,PANGAS
+data/raw/RUI/RUI_0255.jpg,10,RUI
+data/raw/GRASS CARP/GRASS CARP_0060.jpg,0,GRASS CARP
+data/raw/TELAPIA/TELAPIA_0318.jpg,13,TELAPIA
+data/raw/KATLA/KATLA_0146.jpg,2,KATLA
+data/raw/GRASS CARP/GRASS CARP_0153.jpg,0,GRASS CARP
+data/raw/PANGAS/PANGAS_0366.jpg,8,PANGAS
+data/raw/TELAPIA/TELAPIA_0319.jpg,13,TELAPIA
+data/raw/KOI/KOI_0136.jpg,3,KOI
+data/raw/PABDA/PABDA_0163.jpg,7,PABDA
+data/raw/TENGRA/TENGRA_0025.jpg,14,TENGRA
+data/raw/TELAPIA/TELAPIA_0166.jpg,13,TELAPIA
+data/raw/PABDA/PABDA_0178.jpg,7,PABDA
+data/raw/RUI/RUI_0351.jpg,10,RUI
+data/raw/PABDA/PABDA_0236.jpg,7,PABDA
+data/raw/TELAPIA/TELAPIA_0153.jpg,13,TELAPIA
+data/raw/TELAPIA/TELAPIA_0248.jpg,13,TELAPIA
+data/raw/RUI/RUI_0396.jpg,10,RUI
+data/raw/PABDA/PABDA_0245.jpg,7,PABDA
+data/raw/ILISH/ILISH_0090.jpg,1,ILISH
+data/raw/KOI/KOI_0355.jpg,3,KOI
+data/raw/PABDA/PABDA_0070.jpg,7,PABDA
+data/raw/KATLA/KATLA_0047.jpg,2,KATLA
+data/raw/TENGRA/TENGRA_0484.jpg,14,TENGRA
+data/raw/MIRROR CARP/MIRROR CARP_0237.jpg,5,MIRROR CARP
+data/raw/MIRROR CARP/MIRROR CARP_0066.jpg,5,MIRROR CARP
+data/raw/TELAPIA/TELAPIA_0107.jpg,13,TELAPIA
+data/raw/TENGRA/TENGRA_0456.jpg,14,TENGRA
+data/raw/RUI/RUI_0083.jpg,10,RUI
+data/raw/TENGRA/TENGRA_0341.jpg,14,TENGRA
+data/raw/TELAPIA/TELAPIA_0138.jpg,13,TELAPIA
+data/raw/KATLA/KATLA_0315.jpg,2,KATLA
+data/raw/PABDA/PABDA_0043.jpg,7,PABDA
+data/raw/MRIGAL/MRIGAL_0151.jpg,6,MRIGAL
+data/raw/MAGUR/MAGUR_0074.jpg,4,MAGUR
+data/raw/MRIGAL/MRIGAL_0090.jpg,6,MRIGAL
+data/raw/TENGRA/TENGRA_0190.jpg,14,TENGRA
+data/raw/KATLA/KATLA_0078.jpg,2,KATLA
+data/raw/SHOL/SHOL_0008.jpg,11,SHOL
+data/raw/TELAPIA/TELAPIA_0168.jpg,13,TELAPIA
+data/raw/MRIGAL/MRIGAL_0115.jpg,6,MRIGAL
+data/raw/GRASS CARP/GRASS CARP_0303.jpg,0,GRASS CARP
+data/raw/PUTI/PUTI_0193.jpg,9,PUTI
+data/raw/SHOL/SHOL_0080.jpg,11,SHOL
+data/raw/KOI/KOI_0366.jpg,3,KOI
+data/raw/MAGUR/MAGUR_0107.jpg,4,MAGUR
+data/raw/MRIGAL/MRIGAL_0157.jpeg,6,MRIGAL
+data/raw/GRASS CARP/GRASS CARP_0403.jpg,0,GRASS CARP
+data/raw/KATLA/KATLA_0065.jpg,2,KATLA
+data/raw/TENGRA/TENGRA_0307.jpg,14,TENGRA
+data/raw/PANGAS/PANGAS_0017.jpg,8,PANGAS
+data/raw/MIRROR CARP/MIRROR CARP_0206.jpg,5,MIRROR CARP
+data/raw/RUI/RUI_0408.jpg,10,RUI
+data/raw/GRASS CARP/GRASS CARP_0278.jpg,0,GRASS CARP
+data/raw/PUTI/PUTI_0325.jpg,9,PUTI
+data/raw/TENGRA/TENGRA_0144.jpg,14,TENGRA
+data/raw/KOI/KOI_0088.jpg,3,KOI
+data/raw/PABDA/PABDA_0263.jpg,7,PABDA
+data/raw/TENGRA/TENGRA_0276.jpg,14,TENGRA
+data/raw/KOI/KOI_0345.jpg,3,KOI
+data/raw/SILVER CARP/SILVER CARP_0154.jpeg,12,SILVER CARP
+data/raw/RUI/RUI_0457.jpg,10,RUI
+data/raw/SILVER CARP/SILVER CARP_0075.jpg,12,SILVER CARP
+data/raw/MRIGAL/MRIGAL_0047.jpg,6,MRIGAL
+data/raw/SHOL/SHOL_0202.jpg,11,SHOL
+data/raw/MIRROR CARP/MIRROR CARP_0182.jpeg,5,MIRROR CARP
+data/raw/SHOL/SHOL_0052.jpg,11,SHOL
+data/raw/PABDA/PABDA_0156.jpg,7,PABDA
+data/raw/RUI/RUI_0417.jpg,10,RUI
+data/raw/PABDA/PABDA_0340.jpg,7,PABDA
+data/raw/ILISH/ILISH_0106.jpg,1,ILISH
+data/raw/KATLA/KATLA_0204.jpg,2,KATLA
+data/raw/TENGRA/TENGRA_0408.jpg,14,TENGRA
+data/raw/KOI/KOI_0276.jpg,3,KOI
+data/raw/GRASS CARP/GRASS CARP_0014.jpg,0,GRASS CARP
+data/raw/KOI/KOI_0313.jpg,3,KOI
+data/raw/KATLA/KATLA_0035.jpg,2,KATLA
+data/raw/ILISH/ILISH_0183.jpg,1,ILISH
+data/raw/TELAPIA/TELAPIA_0256.jpg,13,TELAPIA
+data/raw/PANGAS/PANGAS_0261.jpg,8,PANGAS
+data/raw/PUTI/PUTI_0304.jpg,9,PUTI
+data/raw/RUI/RUI_0166.jpg,10,RUI
+data/raw/TENGRA/TENGRA_0329.jpg,14,TENGRA
+data/raw/GRASS CARP/GRASS CARP_0140.jpg,0,GRASS CARP
+data/raw/KATLA/KATLA_0222.jpg,2,KATLA
+data/raw/RUI/RUI_0157.jpg,10,RUI
+data/raw/TELAPIA/TELAPIA_0037.jpg,13,TELAPIA
+data/raw/TENGRA/TENGRA_0468.jpg,14,TENGRA
+data/raw/GRASS CARP/GRASS CARP_0284.jpg,0,GRASS CARP
+data/raw/GRASS CARP/GRASS CARP_0319.jpg,0,GRASS CARP
+data/raw/RUI/RUI_0353.jpg,10,RUI
+data/raw/MIRROR CARP/MIRROR CARP_0196.jpg,5,MIRROR CARP
+data/raw/PUTI/PUTI_0307.jpg,9,PUTI
+data/raw/TENGRA/TENGRA_0252.jpg,14,TENGRA
+data/raw/MAGUR/MAGUR_0177.jpg,4,MAGUR
+data/raw/MAGUR/MAGUR_0262.jpg,4,MAGUR
+data/raw/KATLA/KATLA_0191.jpg,2,KATLA
+data/raw/PABDA/PABDA_0056.jpg,7,PABDA
+data/raw/PABDA/PABDA_0045.jpg,7,PABDA
+data/raw/PUTI/PUTI_0160.jpg,9,PUTI
+data/raw/MAGUR/MAGUR_0065.jpg,4,MAGUR
+data/raw/MRIGAL/MRIGAL_0081.jpg,6,MRIGAL

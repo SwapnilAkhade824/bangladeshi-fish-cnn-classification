@@ -1,0 +1,7 @@
+{
+  "p1_epochs": 15,
+  "p1_best": 0.9527458548545837,
+  "epochs_ran": 15,
+  "train_seconds": 1180.2183902263641,
+  "trainable_params": 1529935
+}

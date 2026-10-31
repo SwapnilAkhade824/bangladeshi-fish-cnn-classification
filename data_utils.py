@@ -5,6 +5,7 @@ Used by:
 - notebooks/00_dataset_setup.ipynb
 - notebooks/01_custom_cnn.ipynb
 - notebooks/02_transfer_learning.ipynb
+- eval_utils.py (shared by all three model/comparison notebooks)
 
 Both model notebooks must import from here so that:
 - class mapping is identical,
@@ -13,9 +14,14 @@ Both model notebooks must import from here so that:
 - normalization strategy is documented and identical.
 
 This guarantees a fair comparison in notebooks/03_comparison.ipynb.
+
+Split membership is owned by notebook 00 and frozen in data/splits/*.csv.
+Notebook 00 de-duplicates byte-identical images before splitting; never
+re-split inside a model notebook.
 """
 
 from pathlib import Path
+import hashlib
 import numpy as np
 import pandas as pd
 import tensorflow as tf
@@ -28,6 +34,26 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 DATA_DIR     = PROJECT_ROOT / "data" / "raw"
 SPLITS_DIR   = PROJECT_ROOT / "data" / "splits"
 SPLITS_DIR.mkdir(parents=True, exist_ok=True)
+
+# ------------------------------------------------------------------
+# Portable paths
+# ------------------------------------------------------------------
+
+def to_rel(path) -> str:
+    """
+    Store a dataset path relative to PROJECT_ROOT (posix separators).
+
+    Split CSVs are committed to git and opened on several machines
+    (local Windows checkout, Google Colab, teammate laptops). An
+    absolute path recorded on one machine resolves nowhere else, so
+    only relative paths are ever written to disk.
+    """
+    p = Path(path).resolve()
+    try:
+        return p.relative_to(PROJECT_ROOT).as_posix()
+    except ValueError:
+        # not inside the project (e.g. Colab mounts data elsewhere)
+        return str(p)
 
 # ------------------------------------------------------------------
 # Constants
@@ -68,11 +94,58 @@ def scan_dataset(data_dir: Path = DATA_DIR) -> pd.DataFrame:
         for f in sorted(class_dir.iterdir()):
             if f.suffix.lower() in {".jpg", ".jpeg", ".png"}:
                 records.append({
-                    "filepath":   str(f),
+                    "filepath":   to_rel(f),
                     "label":      CLASS_TO_IDX[class_name],
                     "class_name": class_name,
                 })
     return pd.DataFrame(records)
+
+# ------------------------------------------------------------------
+# Content de-duplication (must run BEFORE splitting)
+# ------------------------------------------------------------------
+
+def _anchor(path) -> Path:
+    """Absolute paths pass through; relative paths are taken from PROJECT_ROOT."""
+    p = Path(path)
+    return p if p.is_absolute() else PROJECT_ROOT / p
+
+def content_hash(path) -> str:
+    """MD5 of the raw bytes, streamed so large files do not load into RAM.
+
+    Relative paths are anchored to PROJECT_ROOT, not to the caller's cwd, so a
+    notebook opened from `notebooks/` hashes the same bytes as one opened from
+    the repo root.
+    """
+    h = hashlib.md5()
+    with open(_anchor(path), "rb") as f:
+        for chunk in iter(lambda: f.read(1 << 20), b""):
+            h.update(chunk)
+    return h.hexdigest()
+
+def content_dedupe(df: pd.DataFrame, verbose: bool = True) -> pd.DataFrame:
+    """
+    Drop byte-identical images, keeping one representative per content hash.
+
+    BFF-15 ships the same photo under different filenames (and sometimes in
+    a different class folder). A plain path-based split therefore puts one
+    copy in train and another in test, which inflates test accuracy. Hashing
+    the bytes first makes the split leakage-proof.
+
+    The file with the lowest name is kept so the result is deterministic and
+    independent of the OS directory listing order.
+    """
+    frame = df.copy()
+    frame["_hash"] = [content_hash(p) for p in frame["filepath"]]
+    frame = frame.sort_values("filepath", key=lambda s: s.str.lower())
+    kept = frame.drop_duplicates(subset="_hash", keep="first")
+    kept = kept.sort_index().drop(columns="_hash").reset_index(drop=True)
+
+    if verbose:
+        removed = len(frame) - len(kept)
+        n_groups = int(pd.Series(frame["_hash"].value_counts() > 1).sum())
+        print(f"content-dedupe: {len(df)} images -> {len(kept)} "
+              f"({removed} byte-identical copies removed across {n_groups} duplicate groups)")
+    return kept
 
 # ------------------------------------------------------------------
 # Load frozen splits (produced by notebook 00)
@@ -81,12 +154,45 @@ def scan_dataset(data_dir: Path = DATA_DIR) -> pd.DataFrame:
 def load_splits(splits_dir: Path = SPLITS_DIR):
     """
     Load train/val/test CSVs saved by notebook 00.
-    Returns (train_df, val_df, test_df).
+    Returns (train_df, val_df, test_df) with `filepath` resolved to an
+    absolute path for the machine doing the loading.
+
+    Older copies of these CSVs stored absolute paths from the machine
+    that generated them; such rows are rewritten from `class_name` +
+    filename so a previously committed split still loads here.
     """
     train_df = pd.read_csv(splits_dir / "train.csv")
     val_df   = pd.read_csv(splits_dir / "val.csv")
     test_df  = pd.read_csv(splits_dir / "test.csv")
+
+    for name, df in [("train", train_df), ("val", val_df), ("test", test_df)]:
+        df["filepath"] = df["filepath"].map(_resolve_path)
+        df["label"]    = df["class_name"].map(CLASS_TO_IDX)  # never trust a stale index
+        present = df["filepath"].map(lambda p: _anchor(p).exists())
+        missing = df[~present]
+        if len(missing):
+            raise FileNotFoundError(
+                f"{name}.csv: {len(missing)} image(s) not found, e.g. "
+                f"{missing['filepath'].iloc[0]}. Check that data/raw/ is "
+                f"present, or re-run notebooks/00_dataset_setup.ipynb."
+            )
     return train_df, val_df, test_df
+
+def _resolve_path(value: str) -> str:
+    """Relative -> absolute; legacy absolute -> rebuilt from tail components."""
+    p = Path(value)
+    if not p.is_absolute():
+        return str(PROJECT_ROOT / p)
+    if p.exists():
+        return str(p)
+    # e.g. D:\Dev\College\...\data\raw\RUI\RUI_0147.jpg -> data/raw/RUI/RUI_0147.jpg
+    parts = p.parts
+    if "raw" in parts:
+        tail = parts[parts.index("raw") + 1:]
+        candidate = DATA_DIR.joinpath(*tail)
+        if candidate.exists():
+            return str(candidate)
+    return str(p)
 
 # ------------------------------------------------------------------
 # Augmentation (training set only)

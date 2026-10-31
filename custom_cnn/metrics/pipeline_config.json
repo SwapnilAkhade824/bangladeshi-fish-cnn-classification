@@ -12,9 +12,9 @@
     "zoom_0.10",
     "contrast_0.10"
   ],
-  "train_size": 3903,
-  "val_size": 837,
-  "test_size": 837,
+  "train_size": 3656,
+  "val_size": 783,
+  "test_size": 784,
   "num_classes": 15,
   "class_names": [
     "GRASS CARP",
@@ -32,5 +32,13 @@
     "SILVER CARP",
     "TELAPIA",
     "TENGRA"
+  ],
+  "raw_images": 5577,
+  "duplicate_images_removed": 354,
+  "unique_images": 5223,
+  "split_ratio": [
+    0.7,
+    0.15,
+    0.15
   ]
 }

@@ -1,0 +1,113 @@
+{
+  "base_model": "MobileNetV2",
+  "test_loss": 0.08431117236614227,
+  "test_accuracy": 0.9757653061224489,
+  "test_top5_accuracy": 1.0,
+  "test_roc_auc_ovr": 0.9993618643486026,
+  "test_precision_macro": 0.9768171119552377,
+  "test_recall_macro": 0.9763004702554927,
+  "test_f1_macro": 0.9763995924853269,
+  "test_precision_weighted": 0.9760028489254837,
+  "test_recall_weighted": 0.9757653061224489,
+  "test_f1_weighted": 0.9757021191683086,
+  "n_test": 784,
+  "epochs_ran": 15,
+  "train_seconds": 1180.2183902263641,
+  "total_params": 2277199,
+  "trainable_params": 1529935,
+  "per_class": {
+    "GRASS CARP": {
+      "precision": 0.9454545454545454,
+      "recall": 0.896551724137931,
+      "f1": 0.9203539823008849,
+      "support": 58
+    },
+    "ILISH": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 35
+    },
+    "KATLA": {
+      "precision": 0.9841269841269841,
+      "recall": 0.9841269841269841,
+      "f1": 0.9841269841269841,
+      "support": 63
+    },
+    "KOI": {
+      "precision": 1.0,
+      "recall": 0.9666666666666667,
+      "f1": 0.9830508474576272,
+      "support": 60
+    },
+    "MAGUR": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 42
+    },
+    "MIRROR CARP": {
+      "precision": 0.972972972972973,
+      "recall": 1.0,
+      "f1": 0.9863013698630136,
+      "support": 36
+    },
+    "MRIGAL": {
+      "precision": 0.9375,
+      "recall": 0.9090909090909091,
+      "f1": 0.9230769230769231,
+      "support": 33
+    },
+    "PABDA": {
+      "precision": 0.9782608695652174,
+      "recall": 1.0,
+      "f1": 0.989010989010989,
+      "support": 45
+    },
+    "PANGAS": {
+      "precision": 1.0,
+      "recall": 0.974025974025974,
+      "f1": 0.9868421052631579,
+      "support": 77
+    },
+    "PUTI": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 56
+    },
+    "RUI": {
+      "precision": 0.9240506329113924,
+      "recall": 0.9733333333333334,
+      "f1": 0.948051948051948,
+      "support": 75
+    },
+    "SHOL": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 44
+    },
+    "SILVER CARP": {
+      "precision": 0.9696969696969697,
+      "recall": 0.9696969696969697,
+      "f1": 0.9696969696969697,
+      "support": 33
+    },
+    "TELAPIA": {
+      "precision": 0.9830508474576272,
+      "recall": 1.0,
+      "f1": 0.9914529914529915,
+      "support": 58
+    },
+    "TENGRA": {
+      "precision": 0.9571428571428572,
+      "recall": 0.9710144927536232,
+      "f1": 0.9640287769784173,
+      "support": 69
+    }
+  },
+  "phase1_epochs": 15,
+  "phase2_epochs": 0,
+  "fine_tune_layers": 30
+}

@@ -13,17 +13,16 @@ env/
 # Raw dataset - CC BY 4.0, committed to this repo.
 # See docs/dataset_source.md.
 
-# Model binaries - too large for git
+# Model binaries & resumable state - too large / created at runtime by the
+# notebooks (these directories are rebuilt on demand, so no .gitkeep is needed).
 custom_cnn/best_model/*
-!custom_cnn/best_model/.gitkeep
 transfer_learning/best_model/*
-!transfer_learning/best_model/.gitkeep
 
-# Plots and images - regenerate locally
+# Plots and images - regenerate locally by running the notebooks.
 custom_cnn/plots/*
-!custom_cnn/plots/.gitkeep
 transfer_learning/plots/*
-!transfer_learning/plots/.gitkeep
+outputs/comparison/*
+outputs/website/*
 
 # Keep logs and metrics CSVs
 !custom_cnn/logs/*.csv
